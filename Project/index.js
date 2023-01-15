@@ -1,6 +1,8 @@
 const express = require("express");
 const cors = require("cors");
 
+// require('dotenv').config();
+
 // Create App
 const app = express();
 // This should be change for env variables
